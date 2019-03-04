@@ -1,10 +1,7 @@
 Tig: text-mode interface for Git
 ================================
-:docext: adoc
 
 [![Build Status](https://travis-ci.org/fengyichui/tig.svg?branch=master)](https://travis-ci.org/fengyichui/tig)
-image:https://ci.appveyor.com/api/projects/status/jxt1uf52o7r0a8r7/branch/master?svg=true[AppVeyor Build,link=https://ci.appveyor.com/project/fonseca/tig]
-image:https://badges.gitter.im/Join%20Chat.svg[Join Chat,link="https://gitter.im/jonas/tig?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge"]
 
 What is Tig?
 ------------
